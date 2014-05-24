@@ -9,7 +9,7 @@ import net.tortuga.level.map.tiles.MapTile;
 /**
  * A turtle controller with access to level map
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class TurtleController {
 

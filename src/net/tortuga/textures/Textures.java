@@ -11,7 +11,7 @@ import org.newdawn.slick.opengl.Texture;
 /**
  * Texture loading class
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 @SuppressWarnings("javadoc")
 // unrelevant

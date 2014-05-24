@@ -7,7 +7,7 @@
 ///**
 // * Delta double for angles in degrees
 // * 
-// * @author MightyPork
+// * @author Ondřej Hruška (MightyPork)
 // */
 //public class DeltaDoubleDeg extends DeltaDouble {
 //	/**

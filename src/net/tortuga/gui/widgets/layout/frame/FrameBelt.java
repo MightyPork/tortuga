@@ -12,7 +12,7 @@ import com.porcupine.coord.Rect;
 /**
  * Frame for widgets (with shadow and border + background)
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class FrameBelt extends FrameBase {
 

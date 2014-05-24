@@ -8,7 +8,7 @@ import org.lwjgl.input.Keyboard;
 
 
 /**
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class ThreadScreenshotTrigger extends Thread {
 

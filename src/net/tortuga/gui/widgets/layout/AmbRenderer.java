@@ -10,7 +10,7 @@ import com.porcupine.coord.Coord;
 /**
  * Space
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class AmbRenderer extends Widget {
 

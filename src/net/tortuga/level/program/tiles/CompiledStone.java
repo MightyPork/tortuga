@@ -9,7 +9,7 @@ import net.tortuga.level.TurtleRuntimeException;
 /**
  * Compiled program stone
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class CompiledStone {
 

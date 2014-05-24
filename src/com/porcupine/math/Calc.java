@@ -15,7 +15,7 @@ import com.porcupine.coord.Vec;
 /**
  * Math helper
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class Calc {
 
@@ -129,7 +129,7 @@ public class Calc {
 	/**
 	 * Calc subclass with buffer utils.
 	 * 
-	 * @author MightyPork
+	 * @author Ondřej Hruška (MightyPork)
 	 */
 	public static class Buffers {
 
@@ -174,7 +174,7 @@ public class Calc {
 	/**
 	 * Angle calculations for degrees.
 	 * 
-	 * @author MightyPork
+	 * @author Ondřej Hruška (MightyPork)
 	 */
 	public static class Deg {
 
@@ -334,7 +334,7 @@ public class Calc {
 	/**
 	 * Angle calculations for radians.
 	 * 
-	 * @author MightyPork
+	 * @author Ondřej Hruška (MightyPork)
 	 */
 	public static class Rad {
 

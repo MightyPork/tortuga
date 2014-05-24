@@ -15,7 +15,7 @@ import net.tortuga.util.Log;
 /**
  * Map tile registry
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class MapTileRegistry {
 

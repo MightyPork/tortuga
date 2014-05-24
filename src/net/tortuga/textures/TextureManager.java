@@ -16,7 +16,7 @@ import org.newdawn.slick.util.ResourceLoader;
 /**
  * Texture manager
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class TextureManager {
 

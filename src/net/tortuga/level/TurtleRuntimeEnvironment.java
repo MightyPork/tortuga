@@ -13,7 +13,7 @@ import net.tortuga.level.program.tiles.stones.StoneLabel;
  * Turtle runtime environment<br>
  * Executes program sequence and handles jumps and variables.
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class TurtleRuntimeEnvironment {
 

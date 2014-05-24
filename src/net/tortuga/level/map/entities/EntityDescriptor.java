@@ -16,7 +16,7 @@ import com.porcupine.ion.Ionizable;
 /**
  * Entity descriptor for loading entities from ION
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class EntityDescriptor implements Ionizable {
 

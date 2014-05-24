@@ -18,7 +18,7 @@ import com.porcupine.mutable.MFloat;
 /**
  * Preloaded sounds.
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 @SuppressWarnings({ "javadoc", "unused" })
 public class SoundManager {

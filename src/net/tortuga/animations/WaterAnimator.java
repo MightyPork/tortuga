@@ -26,7 +26,7 @@ import com.porcupine.math.Calc;
 /**
  * Map water animator
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class WaterAnimator implements IRenderer {
 

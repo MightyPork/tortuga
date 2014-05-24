@@ -7,7 +7,7 @@
 ///**
 // * Double which supports delta timing
 // * 
-// * @author MightyPork
+// * @author Ondřej Hruška (MightyPork)
 // */
 //public class DeltaDouble {
 //	/** target double */

@@ -10,7 +10,7 @@ import com.porcupine.coord.Rect;
 /**
  * Texture Quad (describing a part of a texture)
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class TxQuad {
 

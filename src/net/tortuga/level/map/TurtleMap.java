@@ -22,7 +22,7 @@ import com.porcupine.coord.CoordI;
 /**
  * A turtle map (X*Y, Z layers)
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class TurtleMap {
 

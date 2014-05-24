@@ -4,7 +4,7 @@ package net.tortuga.level.program.tiles;
 /**
  * Kind of program tile
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public enum EProgTileType
 {

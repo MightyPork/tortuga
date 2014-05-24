@@ -9,7 +9,7 @@ import org.newdawn.slick.opengl.Texture;
 /**
  * Enum of turtle themes
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 @SuppressWarnings("javadoc")
 // irrelevant

@@ -4,7 +4,7 @@ package net.tortuga.animations;
 /**
  * Empty animation (no effect)
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class EmptyAnimator implements IRenderer {
 

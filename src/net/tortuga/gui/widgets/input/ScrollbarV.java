@@ -14,7 +14,7 @@ import com.porcupine.coord.Rect;
 /**
  * Clcikable button.
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class ScrollbarV extends ScrollbarBase {
 

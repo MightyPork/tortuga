@@ -12,7 +12,7 @@ import com.porcupine.coord.Coord;
 /**
  * Image from texture
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class Image extends Widget {
 

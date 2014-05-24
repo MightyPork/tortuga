@@ -7,7 +7,7 @@ import com.porcupine.coord.CoordI;
 /**
  * Direction of movement
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 @SuppressWarnings("javadoc")
 // irrelevant

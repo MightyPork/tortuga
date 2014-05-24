@@ -16,7 +16,7 @@ import com.porcupine.ion.Ion;
 /**
  * Bundle of level map tiles, ionizable integer array with dimensions.
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class TileGridDescriptor extends AbstractIonList<Integer> {
 

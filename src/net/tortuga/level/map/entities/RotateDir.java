@@ -4,7 +4,7 @@ package net.tortuga.level.map.entities;
 /**
  * Enum of rotation directions
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public enum RotateDir
 {

@@ -4,7 +4,7 @@ package net.tortuga.level;
 /**
  * Turtle runtime exception (error in user program)
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 @SuppressWarnings("javadoc")
 public class TurtleRuntimeException extends Exception {

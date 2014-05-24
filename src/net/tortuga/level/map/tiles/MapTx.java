@@ -8,7 +8,7 @@ import net.tortuga.textures.TxQuad;
 /**
  * Textures for map tiles
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 @SuppressWarnings("javadoc")
 // irrelevant

@@ -19,7 +19,7 @@ import com.porcupine.coord.Rect;
 /**
  * Piston / elevator tile for turtle and blocks
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class TileElevator extends MapTile {
 

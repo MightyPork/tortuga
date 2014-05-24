@@ -22,7 +22,7 @@ import com.porcupine.coord.CoordI;
 /**
  * The turtle entity
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class EntityTurtle extends Entity {
 

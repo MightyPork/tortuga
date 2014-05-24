@@ -8,7 +8,7 @@ import net.tortuga.textures.TxQuad;
  * Meta tile used to build map tiles with special configurations. Is used in
  * MapTileRegistry with separate ID.
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public abstract class MetaEntity extends Entity {
 

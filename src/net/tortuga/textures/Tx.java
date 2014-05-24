@@ -4,7 +4,7 @@ package net.tortuga.textures;
 /**
  * List of texture quads for GUIs
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 @SuppressWarnings("javadoc")
 public class Tx {

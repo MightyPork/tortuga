@@ -4,7 +4,7 @@ package net.tortuga.level;
 /**
  * Turtle program ended exception
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 @SuppressWarnings("javadoc")
 public class TurtleEndReachedException extends Exception {

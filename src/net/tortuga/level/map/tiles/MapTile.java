@@ -22,7 +22,7 @@ import com.porcupine.math.Calc;
 /**
  * Base map tile
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public abstract class MapTile {
 

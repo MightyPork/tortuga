@@ -20,7 +20,7 @@ import com.porcupine.coord.Rect;
 /**
  * Horizontal scrolling layout
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class ScrollingLayoutH extends LayoutH implements IScrollable {
 

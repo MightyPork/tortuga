@@ -8,7 +8,7 @@ import net.tortuga.level.map.tiles.MetaTile;
 /**
  * Active switch
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class TileSwitchOn extends MetaTile {
 

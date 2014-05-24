@@ -17,7 +17,7 @@ import net.tortuga.textures.Tx;
 /**
  * Main menu panel
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class PanelMenu extends PanelGui {
 

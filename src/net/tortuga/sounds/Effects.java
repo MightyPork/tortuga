@@ -10,7 +10,7 @@ import com.porcupine.mutable.MFloat;
 /**
  * Audio effect manager
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class Effects {
 

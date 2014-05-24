@@ -45,7 +45,7 @@ import com.porcupine.math.Calc;
 /**
  * Game panel
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class PanelGame extends PanelGui {
 

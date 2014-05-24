@@ -20,7 +20,7 @@ import com.porcupine.ion.Ionizable;
 /**
  * Level map descriptor (including entities, tiles and goal mark)
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class TurtleMapDescriptor implements Ionizable {
 

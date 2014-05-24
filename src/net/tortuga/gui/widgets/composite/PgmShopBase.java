@@ -12,7 +12,7 @@ import com.porcupine.coord.Coord;
 /**
  * Program shop slot
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public abstract class PgmShopBase extends Widget implements IDragSlot {
 

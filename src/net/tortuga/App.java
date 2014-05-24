@@ -54,7 +54,7 @@ import com.porcupine.util.FileUtils;
 /**
  * SECTOR main class
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class App {
 

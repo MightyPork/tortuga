@@ -23,14 +23,14 @@ import com.porcupine.coord.Coord;
 /**
  * Root widget, container of layouts
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class GuiRoot implements Comparable<GuiRoot> {
 
 	/**
 	 * Widget event listener
 	 * 
-	 * @author MightyPork
+	 * @author Ondřej Hruška (MightyPork)
 	 */
 	public static interface EventListener {
 

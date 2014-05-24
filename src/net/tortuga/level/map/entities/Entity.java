@@ -24,7 +24,7 @@ import com.porcupine.math.Calc;
 /**
  * Base class for map entities
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public abstract class Entity {
 

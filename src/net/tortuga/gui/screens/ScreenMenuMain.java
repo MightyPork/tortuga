@@ -13,7 +13,7 @@ import com.porcupine.coord.Rect;
 /**
  * main menu screen
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class ScreenMenuMain extends Screen {
 

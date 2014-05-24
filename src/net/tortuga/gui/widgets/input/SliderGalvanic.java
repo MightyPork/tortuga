@@ -13,7 +13,7 @@ import com.porcupine.coord.Rect;
 /**
  * Clcikable button.
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class SliderGalvanic extends Slider {
 

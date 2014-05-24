@@ -10,7 +10,7 @@ import net.tortuga.util.Log;
 /**
  * Entity registry
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class EntityRegistry {
 

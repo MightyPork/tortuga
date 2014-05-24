@@ -12,7 +12,7 @@ import com.porcupine.coord.Coord;
 /**
  * Food entity
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class EntityFood extends Entity {
 

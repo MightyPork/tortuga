@@ -19,7 +19,7 @@ import com.porcupine.coord.Rect;
 /**
  * switch tile
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class TileSwitch extends MapTile implements ISwitch {
 

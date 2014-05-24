@@ -10,7 +10,7 @@ import net.tortuga.util.Log;
 /**
  * Class responsible for resource loading.
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class LoadingManager {
 

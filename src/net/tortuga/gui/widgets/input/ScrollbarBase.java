@@ -13,7 +13,7 @@ import com.porcupine.math.Calc;
 /**
  * Clcikable button.
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public abstract class ScrollbarBase extends Widget implements IScrollbar {
 

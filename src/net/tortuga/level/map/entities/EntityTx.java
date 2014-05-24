@@ -8,7 +8,7 @@ import net.tortuga.textures.TxQuad;
 /**
  * Textures for entities (food)
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 @SuppressWarnings("javadoc")
 public class EntityTx {

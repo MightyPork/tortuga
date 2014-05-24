@@ -4,7 +4,7 @@ package net.tortuga.gui.widgets;
 /**
  * Scrollable element
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public interface IScrollable {
 

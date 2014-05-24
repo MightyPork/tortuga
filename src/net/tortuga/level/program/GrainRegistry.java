@@ -12,7 +12,7 @@ import net.tortuga.util.Log;
 /**
  * Grain program tile registry
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class GrainRegistry {
 

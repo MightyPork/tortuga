@@ -16,7 +16,7 @@ import com.porcupine.math.Calc;
 /**
  * Clcikable button.
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class Slider extends Widget {
 

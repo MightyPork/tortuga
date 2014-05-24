@@ -4,7 +4,7 @@ package net.tortuga.level.program.tiles;
 /**
  * Grain type
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public enum EGrainType
 {

@@ -4,7 +4,7 @@ package net.tortuga.level.map;
 /**
  * Interface for toggleable tiles
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public interface ISwitch {
 

@@ -9,7 +9,7 @@ import com.porcupine.util.PropertyManager;
 /**
  * Configuration
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 @SuppressWarnings("javadoc")
 public class GameConfig {

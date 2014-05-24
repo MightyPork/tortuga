@@ -4,7 +4,7 @@ package net.tortuga.gui.widgets;
 /**
  * Set of 4 numbers for sides (left, right, top, bottom)
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class LeftTopRightBottom {
 

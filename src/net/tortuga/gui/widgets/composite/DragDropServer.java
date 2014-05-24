@@ -18,7 +18,7 @@ import com.porcupine.coord.Coord;
  * Drag'n'Drop server widget (should be placed below all widgets that use it) -
  * handles dragging and rendering.
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class DragDropServer extends Widget {
 

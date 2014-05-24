@@ -4,6 +4,6 @@ package net.tortuga.annotations;
 /**
  * Describes an incomplete method or class
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public @interface NeedsOverride {}

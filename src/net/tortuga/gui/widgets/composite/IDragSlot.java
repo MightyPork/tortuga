@@ -4,7 +4,7 @@ package net.tortuga.gui.widgets.composite;
 /**
  * Drag'n'drop stone
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public interface IDragSlot {
 

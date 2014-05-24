@@ -4,7 +4,7 @@ package com.porcupine.time;
 /**
  * Timer for delta timing
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class TimerDelta {
 

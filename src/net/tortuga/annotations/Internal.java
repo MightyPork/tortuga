@@ -6,6 +6,6 @@ package net.tortuga.annotations;
  * Used where private is not possible, but public does not mean available for
  * anyone.
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public @interface Internal {}

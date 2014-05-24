@@ -8,7 +8,7 @@ import net.tortuga.textures.TxQuad;
 /**
  * Enum of food types, with sprite textures and shadows
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 @SuppressWarnings("javadoc")
 // irrelevant

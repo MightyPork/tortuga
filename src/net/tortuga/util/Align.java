@@ -4,7 +4,7 @@ package net.tortuga.util;
 /**
  * Alignment
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 @SuppressWarnings("javadoc")
 public class Align {

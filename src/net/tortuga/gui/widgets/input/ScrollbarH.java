@@ -14,7 +14,7 @@ import com.porcupine.coord.Rect;
 /**
  * Horizontal scrollbar
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class ScrollbarH extends ScrollbarBase {
 

@@ -11,7 +11,7 @@ import net.tortuga.level.program.StoneList;
 /**
  * Level bundle
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class LevelBundle { // TODO make Ionizable
 

@@ -17,7 +17,7 @@ import com.porcupine.color.RGB;
 /**
  * Splash panel
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class PanelSplash extends PanelGui {
 

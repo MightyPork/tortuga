@@ -11,7 +11,7 @@ import net.tortuga.EWeather;
 /**
  * Audio loop manager
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class Loops {
 

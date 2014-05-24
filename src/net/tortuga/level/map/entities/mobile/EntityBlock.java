@@ -19,7 +19,7 @@ import com.porcupine.coord.Coord;
 /**
  * A block entity
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class EntityBlock extends Entity {
 

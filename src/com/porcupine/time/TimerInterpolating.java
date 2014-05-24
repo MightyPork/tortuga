@@ -4,7 +4,7 @@ package com.porcupine.time;
 /**
  * Timer for interpolated timing
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class TimerInterpolating {
 

@@ -15,7 +15,7 @@ import com.porcupine.ion.Ionizable;
 /**
  * Ionizable Integer Coord
  * 
- * @author MightyPork
+ * @author Ondřej Hruška (MightyPork)
  */
 public class IonCoordI extends CoordI implements Ionizable {
 
